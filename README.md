@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="Luis Josué Jolón Donis - Desarrollador Web" width="100%" />
-</p>
 
 <h1 align="center">¡Hola! Soy Luis Josué Jolón Donis 👋</h1>
 <p align="center">
