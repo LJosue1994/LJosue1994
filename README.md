@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="mailto:josue.jolon@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Correo-josue.jolon@outlook.com-2a6cff?style=for-the-badge"></a>
-  <a href="https://github.com/josuejolon"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-josuejolon-0a122a?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/josue-jolon-5108a4178/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-josue--jolon--5108a4178-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/luisjosue.l/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-luisjosue.l-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/luisjosue.l"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-luisjosue.l-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -50,17 +49,10 @@
 
 ---
 
-### 📊 Estadísticas
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josuejolon&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=josuejolon&theme=tokyonight" />
-</p>
-
 ---
 
 ### 📫 Contacto
-- 📧 **josue.jolon@outlook.com**  
-- 🌐 [luznetconnect.com](https://luznetconnect.com)  
+- 📧 **josue.jolon@outlook.com**   
 - 🇬🇹 Guatemala  
 
 > _“El mejor código es el que hace simple lo complejo.”_  
