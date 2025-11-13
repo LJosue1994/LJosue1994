@@ -36,7 +36,7 @@
 
 ### 📌 Proyectos Destacados
 - **LuzNet Landing** — Landing corporativa responsive con hero, secciones y formulario.  
-  🔗 [Ver repositorio](https://github.com/josuejolon/landing-luznet)
+  🔗 [Ver repositorio](https://github.com/LJosue1994/landing-luznet)
 - **Mini Tienda JS** — Carrito con localStorage, filtros y totales.  
   🔗 [Ver repositorio](https://github.com/josuejolon/mini-tienda)
 - **Portafolio React** — Componentes, rutas y animaciones suaves.  
